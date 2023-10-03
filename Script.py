@@ -226,9 +226,9 @@ IMDb Data:
 📀 RunTime: {runtime} Minutes
 📆 Release Info : {release_date}
 🎛 Countries : <code>{countries}</code>
+⏰ Result Shown in: {remaining_seconds} <i>seconds</i> 🔥
 
-
-⏰Result Shown in: {remaining_seconds} <i>seconds</i> 🔥
+👺Join👺: @TheSpeedMovies</b>"""
 
 Requested by : {message.from_user.mention}</b>"""
     
